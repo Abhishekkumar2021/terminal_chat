@@ -37,5 +37,3 @@ int listen(int sockfd,struct sockaddr *my_address, socklen_t addrlen);
 int connect(int sockfd,struct sockaddr *server_address, socklen_t addrlen);
 ```
 
-
-# terminal_chat
